@@ -1,5 +1,6 @@
 
-### Hi! My name is Evgenia I'm a frontend developer ![reactjs-graphic-01](https://user-images.githubusercontent.com/92331986/200933397-09bb8cac-96ff-4eff-b662-0a4ccf3913ee.png)
+### Hi! My name is Evgenia I'm a frontend developer ![wokring-in-a-call-center-feature-image-1200x675-1](https://user-images.githubusercontent.com/92331986/200937461-1153db25-9fa7-42ff-a296-1f53ba85bdb6.png)
+
 
 
 ###  my skills:

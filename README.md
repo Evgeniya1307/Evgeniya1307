@@ -15,8 +15,7 @@
 технологии. Я трачу свое свободное время на изучение
 Английского, изучение новых технологий. 
 
-![1_FVtCyRdJ6KOr4YswTtwMeA](https://user-images.githubusercontent.com/92331986/200932349-f9f1b034-5e9d-446a-b6d8-54436ddef1ef.jpeg)
-![images (2)](https://user-images.githubusercontent.com/92331986/200932364-82427f31-b560-4804-9747-ec0287ee39e9.jpg)
+
 
   
 

@@ -1,5 +1,6 @@
-![React-Native-Featured-Image](https://user-images.githubusercontent.com/92331986/200932718-a60afbf7-6e9b-493c-abac-144006fadc1c.png)
-### Hi! My name is Evgenia I'm a frontend developer
+
+### Hi! My name is Evgenia I'm a frontend developer ![reactjs-graphic-01](https://user-images.githubusercontent.com/92331986/200933397-09bb8cac-96ff-4eff-b662-0a4ccf3913ee.png)
+
 
 ###  my skills:
 <img src="https://img.shields.io/badge/JavaScript ES6-green?style=for-the-badge&logo=JavaScript&logoColor=#E0FFFF"/> <img src="https://img.shields.io/badge/HTML-red?style=for-the-badge&logo=HTML5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS3-green?style=for-the-badge&logo=CSS3&logoColor=#E0FFFF"/>

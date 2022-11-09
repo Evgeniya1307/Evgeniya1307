@@ -1,3 +1,4 @@
+![React-Native-Featured-Image](https://user-images.githubusercontent.com/92331986/200932718-a60afbf7-6e9b-493c-abac-144006fadc1c.png)
 ### Hi! My name is Evgenia I'm a frontend developer
 
 ###  my skills:

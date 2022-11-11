@@ -1,5 +1,5 @@
 
-### Hi! My name is Evgenia I'm a frontend developer ![wokring-in-a-call-center-feature-image-1200x675-1]
+### Hi! My name is Evgenia I'm a frontend developer 
 ![female-developer-vector](https://user-images.githubusercontent.com/92331986/201305237-ec6e3504-43a2-4043-80e0-1b3e76e24091.jpg)
 
 

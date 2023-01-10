@@ -1,7 +1,7 @@
 
 ## Hi! My name is Evgenia I'm a Frontend React Developer React
 Я человек, у которого есть сильная страсть и желание к
-программирование.
+программированию
 ![female-developer-vector](https://user-images.githubusercontent.com/92331986/201305237-ec6e3504-43a2-4043-80e0-1b3e76e24091.jpg)
 
 
